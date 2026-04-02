@@ -69,8 +69,8 @@ ATEC_SYSTEM_CORE_2026/
 | Windows Server | 2019 / 2022 / 2025 |
 | PowerShell | 5.1 ou superior |
 | Permissões | Administrador local |
-| Hyper-V (opcional) | Role instalado ou instalável pelo módulo 10 |
-| Active Directory (opcional) | Detetado automaticamente; fallback para modo local |
+| Hyper-V | Role instalado ou instalável pelo módulo 10 |
+| Active Directory | Detetado automaticamente; fallback para modo local |
 
 ---
 
@@ -123,21 +123,12 @@ Os alertas de recursos são configuráveis em `Config.ps1` ou diretamente em `Ma
 
 ---
 
-## Logging
-
-Todos os eventos são registados automaticamente em `Logs\sysadmin_YYYY-MM-DD.log` com os níveis `[INFO]`, `[WARN]`, `[ERROR]` e `[ALERT]`. Os logs do dia atual podem ser consultados diretamente no menu principal com a opção `[L]`.
-
----
-
 ## Contexto Académico
 
-Projeto desenvolvido para a unidade curricular de **Administração de Sistemas** do curso de nível 5 em **Gestão de Redes e Sistemas Computacionais** na **ATEC — Academia de Formação**, Palmela.
+Projeto desenvolvido para a unidade curricular de **Instalar e Parametrizar Sistemas Operativos de Servidor (Plataforma Proprietária)** do curso de nível 5 em **Gestão de Redes e Sistemas Computacionais** na **ATEC — Academia de Formação**, Palmela.
 
 ---
 
 ## Autor
 
-**Sérgio Correia**  
-LinkedIn: [linkedin.com/in/sergiocorreia1997](https://linkedin.com/in/sergiocorreia1997)  
-Portfolio: [manuaissergiocorreia.notion.site](https://manuaissergiocorreia.notion.site)  
-GitHub: [github.com/AdrianoPais](https://github.com/AdrianoPais)
+**Daniel Santos / Sérgio Correia**  
