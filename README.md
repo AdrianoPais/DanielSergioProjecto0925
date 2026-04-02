@@ -131,4 +131,4 @@ Projeto desenvolvido para a unidade curricular de **Instalar e Parametrizar Sist
 
 ## Autor
 
-**Daniel Santos / Sérgio Correia**  
+**Daniel Santos / Sérgio Correia**
